@@ -1,0 +1,203 @@
+The coordinate and radius are:
+Circle  1: 
+Center  (0.000000,0.000000)      Radius 1.000000
+Circle  2: 
+Center  (-0.828461,-0.828345)    Radius 0.171539
+Circle  3: 
+Center  (0.828522,-0.828522)     Radius 0.171478
+Circle  4: 
+Center  (0.828429,0.828424)      Radius 0.171571
+Circle  5: 
+Center  (-0.828427,0.828427)     Radius 0.171573
+Circle  6: 
+Center  (-0.585813,-0.914206)    Radius 0.085794
+Circle  7: 
+Center  (0.585899,-0.914180)     Radius 0.085819
+Circle  8: 
+Center  (0.914219,0.585769)      Radius 0.085781
+Circle  9: 
+Center  (-0.914215,0.585783)     Radius 0.085785
+Circle  10: 
+Center  (-0.453101,-0.948684)    Radius 0.051316
+Circle  11: 
+Center  (0.446666,-0.950122)     Radius 0.049877
+Circle  12: 
+Center  (0.948691,0.453084)      Radius 0.051309
+Circle  13: 
+Center  (-0.948684,0.453081)     Radius 0.051316
+Circle  14: 
+Center  (-0.914227,-0.585742)    Radius 0.085773
+Circle  15: 
+Center  (0.914182,-0.585901)     Radius 0.085818
+Circle  16: 
+Center  (0.585855,0.914260)      Radius 0.085740
+Circle  17: 
+Center  (-0.970563,0.970562)     Radius 0.029437
+Circle  18: 
+Center  (-0.948696,-0.453006)    Radius 0.051304
+Circle  19: 
+Center  (0.686411,-0.970570)     Radius 0.029430
+Circle  20: 
+Center  (0.965880,0.369409)      Radius 0.034112
+Circle  21: 
+Center  (-0.585791,0.914199)     Radius 0.085777
+Circle  22: 
+Center  (-0.993288,-0.993326)    Radius 0.006674
+Circle  23: 
+Center  (0.364052,-0.966867)     Radius 0.033133
+Circle  24: 
+Center  (0.970721,0.970717)      Radius 0.029279
+Circle  25: 
+Center  (-0.452994,0.948699)     Radius 0.051301
+Circle  26: 
+Center  (-0.487142,-0.891150)    Radius 0.015535
+Circle  27: 
+Center  (0.810577,-0.630770)     Radius 0.027086
+Circle  28: 
+Center  (0.975712,0.311688)      Radius 0.024287
+Circle  29: 
+Center  (-0.970567,0.686304)     Radius 0.029432
+Circle  30: 
+Center  (-0.891131,-0.485653)    Radius 0.014876
+Circle  31: 
+Center  (0.948665,-0.453151)     Radius 0.051335
+Circle  32: 
+Center  (0.810691,0.630433)      Radius 0.026969
+Circle  33: 
+Center  (-0.988292,0.649167)     Radius 0.011708
+Circle  34: 
+Center  (-0.502198,-0.873217)    Radius 0.007328
+Circle  35: 
+Center  (0.630662,-0.810589)     Radius 0.027029
+Circle  36: 
+Center  (0.461487,0.931861)      Radius 0.039867
+Circle  37: 
+Center  (-0.369303,0.965904)     Radius 0.034096
+Circle  38: 
+Center  (-0.686370,-0.970536)    Radius 0.029464
+Circle  39: 
+Center  (0.983676,-0.511046)     Radius 0.016323
+Circle  40: 
+Center  (0.981952,0.268697)      Radius 0.018048
+Circle  41: 
+Center  (-0.686283,0.970559)     Radius 0.029440
+Circle  42: 
+Center  (-0.969992,-0.968305)    Radius 0.027509
+Circle  43: 
+Center  (0.308002,-0.976275)     Radius 0.023701
+Circle  44: 
+Center  (0.389308,0.962110)      Radius 0.037890
+Circle  45: 
+Center  (-0.927619,0.985667)     Radius 0.014333
+Circle  46: 
+Center  (-0.810692,-0.630557)    Radius 0.027045
+Circle  47: 
+Center  (0.266909,-0.982192)     Radius 0.017808
+Circle  48: 
+Center  (0.970733,0.685982)      Radius 0.029267
+Circle  49: 
+Center  (-0.487090,0.891149)     Radius 0.015580
+Circle  50: 
+Center  (-0.985299,-0.928964)    Radius 0.014701
+Circle  51: 
+Center  (0.970562,-0.686425)     Radius 0.029437
+Circle  52: 
+Center  (0.985973,0.236876)      Radius 0.014026
+Circle  53: 
+Center  (-0.311310,0.975772)     Radius 0.024228
+Circle  54: 
+Center  (-0.983961,-0.510376)    Radius 0.016038
+Circle  55: 
+Center  (0.506895,-0.981814)     Radius 0.018181
+Circle  56: 
+Center  (0.776269,0.651156)      Radius 0.013210
+Circle  57: 
+Center  (-0.965894,0.369360)     Radius 0.034106
+Circle  58: 
+Center  (-0.630716,-0.810749)    Radius 0.026988
+Circle  59: 
+Center  (0.882481,-0.494038)     Radius 0.011358
+Circle  60: 
+Center  (0.686312,0.970575)      Radius 0.029425
+Circle  61: 
+Center  (-0.465268,0.892244)     Radius 0.006268
+Circle  62: 
+Center  (-0.965569,-0.369526)    Radius 0.033863
+Circle  63: 
+Center  (0.965878,-0.369442)     Radius 0.034122
+Circle  64: 
+Center  (0.727955,0.985288)      Radius 0.014712
+Circle  65: 
+Center  (-0.983979,0.511638)     Radius 0.016021
+Circle  66: 
+Center  (-0.369389,-0.965888)    Radius 0.034112
+Circle  67: 
+Center  (0.235895,-0.985535)     Radius 0.013374
+Circle  68: 
+Center  (0.989687,0.407078)      Radius 0.010313
+Circle  69: 
+Center  (-0.679621,0.931975)     Radius 0.009715
+Circle  70: 
+Center  (-0.970552,-0.686233)    Radius 0.029423
+Circle  71: 
+Center  (0.503477,-0.956862)     Radius 0.006998
+Circle  72: 
+Center  (0.988357,0.648974)      Radius 0.011642
+Circle  73: 
+Center  (-0.985282,0.928932)     Radius 0.014718
+Circle  74: 
+Center  (-0.892431,-0.464663)    Radius 0.006154
+Circle  75: 
+Center  (0.964088,-0.973207)     Radius 0.026793
+Circle  76: 
+Center  (0.988788,0.211777)      Radius 0.011212
+Circle  77: 
+Center  (-0.962622,0.508272)     Radius 0.005600
+Circle  78: 
+Center  (-0.311806,-0.975699)    Radius 0.024300
+Circle  79: 
+Center  (0.978316,-0.294512)     Radius 0.021684
+Circle  80: 
+Center  (0.985240,0.929071)      Radius 0.014760
+Circle  81: 
+Center  (-0.676333,0.917801)     Radius 0.004835
+Circle  82: 
+Center  (-0.818067,-0.593537)    Radius 0.010702
+Circle  83: 
+Center  (0.659528,-0.993860)     Radius 0.006139
+Circle  84: 
+Center  (0.992817,0.338104)      Radius 0.007183
+Circle  85: 
+Center  (-0.991194,0.906165)     Radius 0.008805
+Circle  86: 
+Center  (-0.842817,-0.648249)    Radius 0.009129
+Circle  87: 
+Center  (0.776005,-0.651454)     Radius 0.013201
+Circle  88: 
+Center  (0.929125,0.985217)      Radius 0.014772
+Circle  89: 
+Center  (-0.943470,0.995620)     Radius 0.004380
+Circle  90: 
+Center  (-0.746379,-0.990128)    Radius 0.009872
+Circle  91: 
+Center  (0.207650,-0.989220)     Radius 0.010779
+Circle  92: 
+Center  (0.816826,0.594004)      Radius 0.009973
+Circle  93: 
+Center  (-0.975679,0.311792)     Radius 0.024287
+Circle  94: 
+Center  (-0.975647,-0.312111)    Radius 0.024353
+Circle  95: 
+Center  (-0.284838,-0.992605)    Radius 0.007395
+Circle  96: 
+Center  (0.985241,0.514603)      Radius 0.014759
+Circle  97: 
+Center  (-0.648924,0.988373)     Radius 0.011627
+Circle  98: 
+Center  (-0.651250,-0.776166)    Radius 0.013193
+Circle  99: 
+Center  (0.929275,-0.389367)     Radius 0.007550
+Circle  100: 
+Center  (0.325873,0.973462)      Radius 0.026538
+The maximum sum of R^2 we find: 1.2312261858767664
+Time cost: 1.6585633754730225
